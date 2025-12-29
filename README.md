@@ -15,7 +15,7 @@ Leveraging **LLM (Large Language Model)** and **RAG (Retrieval-Augmented Generat
 
 This system utilizes a DAG (Directed Acyclic Graph) workflow design:
 
-![DAG](./DAG.PNG)
+![DAG](./DAG.png)
 
 *(Please ensure your flowchart image is named system_diagram.jpg and placed in the project root directory, or modify the filename here)*
 
