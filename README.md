@@ -89,4 +89,5 @@ MODEL_NAME = "gpt-oss:120b"
 python bot.py
 ```
 
-### Now you can text in the DC server like @"bot_name" "what you want to search"
+### Now you can text in the DC server like @"bot_name" `"what you want to search"`
+
