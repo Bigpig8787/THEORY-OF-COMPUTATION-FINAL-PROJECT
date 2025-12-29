@@ -82,4 +82,11 @@ SERPER_API_KEY = "YOUR_SERPER_KEY"  # Google Serper API Key
 YOUTUBE_API_KEY = "YOUR_YOUTUBE_KEY" # YouTube Data API v3 Key
 DISCORD_TOKEN = "YOUR_DISCORD_TOKEN" # Discord Bot Token
 MODEL_NAME = "gpt-oss:120b"
+
 ```
+### 4. Run bot
+```bash=
+python bot.py
+```
+
+### Now you can text in the DC server like @"bot_name" "what you want to search"
